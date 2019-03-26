@@ -1,0 +1,83 @@
+
+Fidget
+Measuring Productivity Using a Quantitative Approach 
+11:00 11 Mar 2019
+
+Skit Dashwood
+Workforce Analytics Team
+Skit.Dashwood@ato.gov.au
+
+* Agenda
+- Motivation
+- Current situation
+- Proposed solution
+- A quick Demo (imagined solution)
+- Advantages of proposed solution
+- Mathematical model
+
+- x slides long
+- questions at the end
+
+* Motivation
+- How do an organisation identify its highest performing individuals?
+- How accurate is staff assessment?
+- How quantitative and data driven are promotions?
+- What can workforce analytics tell you about an individual today?
+- Is there patterns of staff performance?
+- If these patterns existed, are we able to make use of them?
+ write it here
+
+
+“If we have data, let’s look at data. If all we have are opinions, let’s go with mine!"
+
+― Jim Barksdale 
+
+
+* Data for Workforce Analytics
+
+- Imagine having an accurate performance measure
+- Derived using algorithms
+- Based on 360 peer reviews
+- Recorded weekly for the last 10 years
+- For every staff member
+- A treasure trove of perofmance data
+
+"The best time to plant a tree was *20*years*ago*, the second best time is now!"
+― Chinese Proverb
+
+* Status Quo
+Many organisations have tried to use the 360 approach to measure perfomance, but all the systems that are availble these days suffer from some of the following:
+- Lengthy and clunky process (read infrequent)
+- Recorded in text based format (How accurate is NLP sentiement analysis?) "How much wood would a woodchuck chuck if a woodchuck could chuck wood?"
+- Polite, poltically correct (they might become my boss one day mentality)
+- Makes the task even harder for text mining algorithms 
+
+* Fidget
+- A simple, quick, and streamlined quantitative approach
+- Quick, and simple allows data to be collected more frequently
+- Peromance is estimated using peer reviews
+- Evidence based top performer identification
+- Give, and recieve continous feedback from team
+- Eliminate communication gaps regarding expected performance
+- Imposter syndrome is one of the issues to eliminate
+
+Demo .link http:/localhost:8080
+
+* Fidget
+- Takes 20 seconds to fill
+- Assessing all staff at ones allows staff to use fair and unified measure to all.
+- Direct team asssessment is the most accurate way to measure ones performance.
+- Weights can come from 
+
+
+.link localhost:8080/fidget
+
+* Challenges
+- Industry unions
+- negative image (set a promise and keep it, code of conduct?)
+- Monetray incentives (100$ per week x 50 weeks = 5000$ annual)
+
+* Methodology
+ Excel  
+
+
